@@ -5,3 +5,8 @@ h1 {
 .done {
     color: purple;
 }
+
+li span {
+    float: right;
+
+}
